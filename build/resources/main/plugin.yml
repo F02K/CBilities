@@ -1,0 +1,6 @@
+name: CBilities
+version: '0.1.0'
+main: dev.cbilities.CBilitiesPlugin
+api-version: '1.21'
+author: FOSK
+description: Small modular plugin collecting various abilities.

@@ -1,0 +1,10 @@
+# CBilities configuration.
+# A backup of this file is created in plugins/CBilities/backups before it is rewritten.
+
+# Number of backups to keep (oldest are deleted first).
+max-backups: 10
+
+modules:
+  # Using Lunge on a spear costs no hunger.
+  lunge-no-hunger:
+    enabled: true
